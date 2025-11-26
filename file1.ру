@@ -1,2 +1,3 @@
 print('Hello from file1')
 print('NNew line from person2')
+print('Изменение в file1.ру от person1')
